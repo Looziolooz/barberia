@@ -51,5 +51,6 @@ temp/
 # dev logs
 *.log
 
-# Runtime booking data
+# Runtime data stores
 /data/bookings.json
+/data/products.json

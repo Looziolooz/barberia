@@ -1,0 +1,62 @@
+[
+  {
+    "name": "entrance.webp",
+    "src": "/images/home/entrance.webp",
+    "w": 1259,
+    "h": 1341
+  },
+  {
+    "name": "svc-barbering.webp",
+    "src": "/images/home/svc-barbering.webp",
+    "w": 1259,
+    "h": 1341
+  },
+  {
+    "name": "svc-wellness.webp",
+    "src": "/images/home/svc-wellness.webp",
+    "w": 1259,
+    "h": 1341
+  },
+  {
+    "name": "svc-hands.webp",
+    "src": "/images/home/svc-hands.webp",
+    "w": 1259,
+    "h": 1341
+  },
+  {
+    "name": "shop.webp",
+    "src": "/images/home/shop.webp",
+    "w": 1105,
+    "h": 637
+  },
+  {
+    "name": "team.webp",
+    "src": "/images/home/team.webp",
+    "w": 376,
+    "h": 516
+  },
+  {
+    "name": "owner.webp",
+    "src": "/images/home/owner.webp",
+    "w": 449,
+    "h": 674
+  },
+  {
+    "name": "news-1.webp",
+    "src": "/images/home/news-1.webp",
+    "w": 768,
+    "h": 512
+  },
+  {
+    "name": "news-2.webp",
+    "src": "/images/home/news-2.webp",
+    "w": 768,
+    "h": 512
+  },
+  {
+    "name": "news-3.webp",
+    "src": "/images/home/news-3.webp",
+    "w": 768,
+    "h": 512
+  }
+]

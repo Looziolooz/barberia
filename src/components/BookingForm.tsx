@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { cn } from "@/lib/utils";
+import type { Messages } from "@/i18n/messages";
 
 interface ServiceOption {
   id: string;
@@ -16,6 +17,7 @@ interface BarberOption {
 }
 
 interface BookingFormProps {
+  dict: Messages;
   services: ServiceOption[];
   barbers: BarberOption[];
 }
@@ -63,7 +65,7 @@ const fieldInput =
 const primaryButton =
   "border border-cream/50 px-6 py-3 font-display text-[11px] uppercase tracking-[0.22em] transition-colors hover:bg-cream hover:text-background";
 
-export function BookingForm({ services, barbers }: BookingFormProps) {
+export function BookingForm({ dict, services, barbers }: BookingFormProps) {
   const today = localToday();
 
   const [service, setService] = useState("");
@@ -156,10 +158,10 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
       if (res.ok && json.booking) {
         setConfirmed(json.booking);
       } else {
-        setError(json.error ?? "Something went wrong. Please try again.");
+        setError(json.error ?? dict.book.genericError);
       }
     } catch {
-      setError("Something went wrong. Please try again.");
+      setError(dict.book.genericError);
     } finally {
       setSubmitting(false);
     }
@@ -185,17 +187,17 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
     return (
       <div className="border border-cream/50 p-8">
         <h2 className="font-display text-2xl font-black uppercase tracking-[0.12em] text-cream">
-          Booking received
+          {dict.book.received}
         </h2>
         <dl className="mt-6 space-y-3">
-          <ConfirmationRow label="Service" value={confirmed.serviceName} />
-          <ConfirmationRow label="Barber" value={confirmed.barberName} />
-          <ConfirmationRow label="Date" value={confirmed.date} />
-          <ConfirmationRow label="Time" value={confirmed.time} />
-          <ConfirmationRow label="Name" value={confirmed.name} />
+          <ConfirmationRow label={dict.book.service} value={confirmed.serviceName} />
+          <ConfirmationRow label={dict.book.barber} value={confirmed.barberName} />
+          <ConfirmationRow label={dict.book.date} value={confirmed.date} />
+          <ConfirmationRow label={dict.book.time} value={confirmed.time} />
+          <ConfirmationRow label={dict.book.name} value={confirmed.name} />
         </dl>
         <button type="button" onClick={reset} className={cn(primaryButton, "mt-8")}>
-          Book another
+          {dict.book.bookAnother}
         </button>
       </div>
     );
@@ -207,7 +209,7 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
     <form onSubmit={handleSubmit} className="space-y-8">
       <div className="space-y-2">
         <label htmlFor="service" className={fieldLabel}>
-          Service
+          {dict.book.service}
         </label>
         <select
           id="service"
@@ -216,11 +218,11 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
           className={fieldInput}
         >
           <option value="" className="text-black">
-            Select a service
+            {dict.book.selectService}
           </option>
           {services.map((s) => (
             <option key={s.id} value={s.id} className="text-black">
-              {`${s.name} · ${s.duration} min · €${s.price}`}
+              {`${s.name} · ${s.duration} ${dict.book.minutes} · €${s.price}`}
             </option>
           ))}
         </select>
@@ -228,7 +230,7 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
 
       <div className="space-y-2">
         <label htmlFor="barber" className={fieldLabel}>
-          Barber
+          {dict.book.barber}
         </label>
         <select
           id="barber"
@@ -237,7 +239,7 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
           className={fieldInput}
         >
           <option value={ANY_BARBER_ID} className="text-black">
-            Any barber
+            {dict.book.anyBarber}
           </option>
           {barbers.map((b) => (
             <option key={b.id} value={b.id} className="text-black">
@@ -249,7 +251,7 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
 
       <div className="space-y-2">
         <label htmlFor="date" className={fieldLabel}>
-          Date
+          {dict.book.date}
         </label>
         <input
           id="date"
@@ -262,13 +264,13 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
       </div>
 
       <div className="space-y-3">
-        <span className={fieldLabel}>Time</span>
+        <span className={fieldLabel}>{dict.book.time}</span>
         {timeNotReady ? (
-          <p className="text-sm text-cream/40">Pick a service and date first</p>
+          <p className="text-sm text-cream/40">{dict.book.pickFirst}</p>
         ) : loadingSlots ? (
-          <p className="text-sm text-cream/40">Loading times…</p>
+          <p className="text-sm text-cream/40">{dict.book.loading}</p>
         ) : slots.length === 0 ? (
-          <p className="text-sm text-cream/40">No free slots — try another day</p>
+          <p className="text-sm text-cream/40">{dict.book.noSlots}</p>
         ) : (
           <div className="flex flex-wrap gap-2">
             {slots.map((slot) => {
@@ -295,56 +297,56 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
 
       <div className="space-y-2">
         <label htmlFor="name" className={fieldLabel}>
-          Name
+          {dict.book.name}
         </label>
         <input
           id="name"
           type="text"
           value={name}
           onChange={(e) => setName(e.target.value)}
-          placeholder="Your name"
+          placeholder={dict.book.namePlaceholder}
           className={fieldInput}
         />
       </div>
 
       <div className="space-y-2">
         <label htmlFor="email" className={fieldLabel}>
-          Email
+          {dict.book.email}
         </label>
         <input
           id="email"
           type="email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          placeholder="you@example.com"
+          placeholder={dict.book.emailPlaceholder}
           className={fieldInput}
         />
       </div>
 
       <div className="space-y-2">
         <label htmlFor="phone" className={fieldLabel}>
-          Phone
+          {dict.book.phone}
         </label>
         <input
           id="phone"
           type="tel"
           value={phone}
           onChange={(e) => setPhone(e.target.value)}
-          placeholder="+39 ..."
+          placeholder={dict.book.phonePlaceholder}
           className={fieldInput}
         />
       </div>
 
       <div className="space-y-2">
         <label htmlFor="notes" className={fieldLabel}>
-          Notes (optional)
+          {dict.book.notes}
         </label>
         <textarea
           id="notes"
           value={notes}
           onChange={(e) => setNotes(e.target.value)}
           rows={3}
-          placeholder="Anything we should know?"
+          placeholder={dict.book.notesPlaceholder}
           className={cn(fieldInput, "resize-none")}
         />
       </div>
@@ -360,7 +362,7 @@ export function BookingForm({ services, barbers }: BookingFormProps) {
         disabled={!canSubmit || submitting}
         className={cn(primaryButton, (!canSubmit || submitting) && "opacity-40 pointer-events-none")}
       >
-        {submitting ? "Confirming…" : "Confirm booking"}
+        {submitting ? dict.book.confirming : dict.book.confirm}
       </button>
     </form>
   );

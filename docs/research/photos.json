@@ -1,0 +1,117 @@
+[
+  {
+    "out": "/images/home/hero.webp",
+    "w": 1600,
+    "h": 2994
+  },
+  {
+    "out": "/images/home/owner.webp",
+    "w": 880,
+    "h": 1194
+  },
+  {
+    "out": "/images/home/shop.webp",
+    "w": 530,
+    "h": 252
+  },
+  {
+    "out": "/images/home/svc-barbering.webp",
+    "w": 266,
+    "h": 266
+  },
+  {
+    "out": "/images/home/svc-wellness.webp",
+    "w": 268,
+    "h": 268
+  },
+  {
+    "out": "/images/home/svc-hands.webp",
+    "w": 342,
+    "h": 342
+  },
+  {
+    "out": "/images/home/news-1.webp",
+    "w": 344,
+    "h": 229
+  },
+  {
+    "out": "/images/home/news-2.webp",
+    "w": 304,
+    "h": 203
+  },
+  {
+    "out": "/images/home/news-3.webp",
+    "w": 479,
+    "h": 319
+  },
+  {
+    "out": "/images/home/interior.webp",
+    "w": 752,
+    "h": 1407
+  },
+  {
+    "out": "/images/gallery/welcome.webp",
+    "w": 752,
+    "h": 1407
+  },
+  {
+    "out": "/images/gallery/owner.webp",
+    "w": 880,
+    "h": 1194
+  },
+  {
+    "out": "/images/gallery/chairs.webp",
+    "w": 530,
+    "h": 320
+  },
+  {
+    "out": "/images/gallery/shave-kit.webp",
+    "w": 304,
+    "h": 325
+  },
+  {
+    "out": "/images/gallery/treatment.webp",
+    "w": 354,
+    "h": 342
+  },
+  {
+    "out": "/images/gallery/lounge.webp",
+    "w": 202,
+    "h": 322
+  },
+  {
+    "out": "/images/gallery/reception.webp",
+    "w": 479,
+    "h": 329
+  },
+  {
+    "out": "/images/gallery/beard.webp",
+    "w": 268,
+    "h": 377
+  },
+  {
+    "out": "/images/gallery/haircut.webp",
+    "w": 416,
+    "h": 266
+  },
+  {
+    "out": "/images/gallery/products.webp",
+    "w": 344,
+    "h": 255
+  },
+  {
+    "out": "/images/products/post-shave.webp",
+    "w": 255,
+    "h": 255
+  },
+  {
+    "out": "/images/products/shave-kit.webp",
+    "w": 304,
+    "h": 304
+  },
+  {
+    "out": "/images/products/pomade.webp",
+    "w": 202,
+    "h": 202
+  }
+]

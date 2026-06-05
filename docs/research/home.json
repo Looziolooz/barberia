@@ -1,0 +1,256 @@
+{
+  "title": "Don Barber & Groom | Ανδρική Περιποίηση και Wellness",
+  "description": "Ανακαλύψτε το Don Barber & Groom και ζήστε την απόλυτη εμπειρία ανδρικής περιποίησης και wellness. Μπείτε στο site και μάθετε περισσότερα!",
+  "fonts": [
+    "sans-serif",
+    "PFGrandGothikWide, Arial, Helvetica, sans-serif",
+    "PFGrandGothikWideBold, Arial, Helvetica, sans-serif",
+    "PFGrandGothikCompressed, Arial, Helvetica, sans-serif",
+    "icomoon"
+  ],
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "SERVICES",
+      "size": "26px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H2",
+      "text": "TAILOR MADE SERVICES",
+      "size": "20px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H3",
+      "text": "BARBERING",
+      "size": "100px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H3",
+      "text": "DETAILED PRICELIST",
+      "size": "100px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H3",
+      "text": "GROOMING & WELLNESS",
+      "size": "100px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H3",
+      "text": "MANICURE & PEDICURE",
+      "size": "100px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H2",
+      "text": "DON HUMANHOOD PRODUCTS FOR MEN",
+      "size": "20px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H3",
+      "text": "LEARN MORE",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H1",
+      "text": "GROOMING & WELLNESS",
+      "size": "20px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H2",
+      "text": "LA FAMILIA",
+      "size": "20px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H3",
+      "text": "GIANNISSAKELLARAKIS",
+      "size": "119.995px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H2",
+      "text": "A WIDE RANGE OF PRODUCTS",
+      "size": "20px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H3",
+      "text": "SHOP IN SHOP",
+      "size": "120px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H2",
+      "text": "HOUSE TREATMENTS",
+      "size": "20px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H3",
+      "text": "SERVICES",
+      "size": "200px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H3",
+      "text": "GROOMING & WELLNESS",
+      "size": "20px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H3",
+      "text": "BARBERING",
+      "size": "20px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H3",
+      "text": "MANICURE & PEDICURE",
+      "size": "20px",
+      "color": "rgb(236, 234, 224)"
+    },
+    {
+      "tag": "H2",
+      "text": "GET INFORMED",
+      "size": "20px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H3",
+      "text": "NEWS",
+      "size": "200px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H3",
+      "text": "THERAPY FOR STRESS, ANXIETY, PAIN, AND FATIGUE",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H3",
+      "text": "DIRTY LAUNDRY: THE PERFECT BASICS",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)"
+    },
+    {
+      "tag": "H3",
+      "text": "THIS WINTER’S ACCESSORIES",
+      "size": "16px",
+      "color": "rgb(0, 0, 0)"
+    }
+  ],
+  "navLinks": [
+    " -> /en/",
+    "BOOK NOW -> https://don-barber.gr/en/epikoinwnia/",
+    "+30 210 3617507 -> tel:+302103617507",
+    "EN -> https://don-barber.gr/en/",
+    "GR -> https://don-barber.gr",
+    "HOME -> https://don-barber.gr/en/",
+    "PROFILE -> https://don-barber.gr/en/sxetika-me-emas/",
+    "TIMELINE -> https://don-barber.gr/en/to-taksidi-mas-ksekina-to-2012/",
+    "GALLERY -> https://don-barber.gr/en/perihghtheite-sto-katasthma-mas/",
+    "THE TEAM -> https://don-barber.gr/en/gnwriste-thn-omada-mas/",
+    "SERVICES -> https://don-barber.gr/en/anakalypste-tis-yphresies-mas/",
+    "NEWS -> https://don-barber.gr/en/nea-ekdhlwseis-kai-symboules-modas-andrikhs-peripoihshs/",
+    "CONTACT -> https://don-barber.gr/en/epikoinwnia/",
+    "SERVICESPREMIUM BARBERING SERV -> https://don-barber.gr/en/anakalypste-tis-yphresies-mas/"
+  ],
+  "buttons": [
+    "Necessary  1",
+    "Preferences  5",
+    "Statistics  4",
+    "Marketing  4",
+    "Unclassified  0",
+    "[#IABV2_LABEL_PURPOSES#]",
+    "[#IABV2_LABEL_FEATURES#]",
+    "[#IABV2_LABEL_PARTNERS#]",
+    "Allow all cookies",
+    "Customize",
+    "Allow selection",
+    "Use necessary cookies only",
+    "OUR TEAM",
+    "ALL SERVICES",
+    "ALL NEWS"
+  ],
+  "images": [
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-mega-menu-services-banner.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-entrance-exterior.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-service-barbering.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-services-wellness.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-service-hand-and-feet.jpg",
+    "https://don-barber.gr/wp-content/uploads/picture-449x613-04.png",
+    "https://don-barber.gr/wp-content/uploads/1-%CE%99%CE%A9%CE%91%CE%9D%CE%9D%CE%97%CE%A3-%CE%A3%CE%91%CE%9A%CE%95%CE%9B%CE%9B%CE%91%CE%A1%CE%91%CE%9A%CE%97%CE%A3-OWNER-MASTER-BARBER-2.jpg",
+    "https://don-barber.gr/wp-content/uploads/kerastase-logo.png",
+    "https://don-barber.gr/wp-content/uploads/reuzel-logo.png",
+    "https://don-barber.gr/wp-content/uploads/Label-logo.png",
+    "https://don-barber.gr/wp-content/uploads/kevin-murphy-logo.png",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-shop-online-reception.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-wellness-thumb-768x406.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-featured-gallery-about.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-hand-and-feet-thumb-768x406.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-reflexology-1-330x220.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-reflexology-1-768x512.jpg",
+    "https://don-barber.gr/wp-content/themes/don/images/logo-black.png",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-dirty-330x220.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-dirty-768x512.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-winter-accessories-330x220.jpg",
+    "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-winter-accessories-768x512.jpg"
+  ],
+  "videos": [],
+  "bgImages": [],
+  "sections": [
+    {
+      "tag": "div",
+      "cls": "block-50 full-height display--inline-top relative tablet-hor-100 tablet-hor-h-100 mobile-h",
+      "h": 900,
+      "bg": "rgba(0, 0, 0, 0)",
+      "text": "TAILOR MADE SERVICES BARBERING DETAILED PRICELIST GROOMING & WELLNESS MANICURE & PEDICURE"
+    },
+    {
+      "tag": "div",
+      "cls": "block-50 full-height  display--inline-top relative overflow bg--cream tablet-hor-100 table",
+      "h": 900,
+      "bg": "rgb(236, 234, 224)",
+      "text": "DON HUMANHOOD PRODUCTS FOR MEN LEARN MORE WELCOME TO DON'S WORLDWELCOME TO DON'S WORLDWELCOME TO DON'S WORLDWELCOME TO D"
+    },
+    {
+      "tag": "section",
+      "cls": "bg--team s-pad hp-team",
+      "h": 1693,
+      "bg": "rgb(126, 146, 156)",
+      "text": "GROOMING & WELLNESS LA FAMILIAA HAND-PICKED GROUP OF TALENTED, ENTHUSIASTIC, AND FRIENDLY PROFESSIONALS MAKE SURE EACH G"
+    },
+    {
+      "tag": "section",
+      "cls": "bg--cream s-pad shop_coming_soon hp-services",
+      "h": 1290,
+      "bg": "rgb(236, 234, 224)",
+      "text": "A WIDE RANGE OF PRODUCTS A CAREFULLY SELECTED RANGE OF BRANDED PRODUCTS FOR MEN ONLY SHOP IN SHOP"
+    },
+    {
+      "tag": "section",
+      "cls": "hp-services bg--grey s-pad tablet-hor-hidden",
+      "h": 1528,
+      "bg": "rgb(117, 113, 113)",
+      "text": "HOUSE TREATMENTSA RANGE OF PREMIUM BARBERING SERVICES AND SIGNATURE TREATMENTS DELIVERED WITH HIGH-LEVEL CRAFTSMANSHIP A"
+    },
+    {
+      "tag": "section",
+      "cls": "news s-pad bg--snow-white",
+      "h": 1330,
+      "bg": "rgb(246, 246, 246)",
+      "text": "GET INFORMEDA ONE-STOP RESOURCE COVERING ALL THAT ENRICHES OUR LIVES AS MODERN MEN ON A DAILY BASIS: RELATIONSHIPS, FASH"
+    }
+  ],
+  "scrollHeight": 7123,
+  "bodyText": "This website uses cookies\nWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.\nConsent Selection\nNecessary\nPreferences\nStatistics\nMarketing\nShow details\nAllow all cookies\nAllow selection\nUse necessary cookies only\nSkip to content\nBOOK NOW \n+30 210 3617507\n ENGR\nTAILOR MADE SERVICES\nBARBERING\nDETAILED PRICELIST\nGROOMING & WELLNESS\nMANICURE & PEDICURE\nDON HUMANHOOD PRODUCTS FOR MEN\nLEARN MORE\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nGROOMING & WELLNESS\nLA FAMILIA\nA HAND-PICKED GROUP OF TALENTED, ENTHUSIASTIC, AND FRIENDLY PROFESSIONALS MAKE SURE EACH GUEST LEAVES OUR SALON FEELING PERFECTLY GROOMED AND REFRESHED.\nGIANNIS\nSAKELLARAKIS\nMORE\nOWNER - MASTER BARBER\nOUR TEAM\nA WIDE RANGE OF PRODUCTS\nA CAREFULLY SELECTED RANGE OF BRANDED PRODUCTS FOR MEN ONLY\nSHOP IN SHOP\nHOUSE TREATMENTS\nA RANGE OF PREMIUM BARBERING SERVICES AND SIGNATURE TREATMENTS DELIVERED WITH HIGH-LEVEL CRAFTSMANSHIP AND GENUINE CLIENT CARE.\nSERVICES\nGROOMING & WELLNESS\nHAIR-REMOVAL AND RESTORATIVE THERAPIES FOR THE FACE AND BODY, DESIGNED TO FOCUS ON THE SPECIFIC NEEDS OF MEN...\nBARBERING\nTHE BEST HAIR AND SHAVE SERVICES IN THE BEATING HEART OF ATHENS...\nMANICURE & PEDICURE\nDELUXE TREATMENTS SPECIFICALLY CREATED FOR MEN AND DELIVERED IN THE COMFORT OF A DEDICATED PEDICURE AND MANICURE ROOM...\nALL SERVICES\nGET INFORMED\nA ONE-STOP RESOURCE COVERING ALL THAT ENRICHES OUR LIVES AS MODERN MEN ON A DAILY BASIS: RELATIONSHIPS, FASHION, FITNESS, FOOD & DRINK, TRAVEL, AND GROOMING.\nNEWS\nMEN’S HEALTH\nTHERAPY FOR STRESS, ANXIETY, PAIN, AND FATIGUE\nJAN.25 ’21\nFASHION & STYLE\nDIRTY LAUNDRY: THE PERFECT BASICS\nDEC.16 ’20\nFASHION & STYLE\nTHIS WINTER’S ACCESSORIES\nOCT.25 ’20\nALL NEWS\n23 AMERIKIS STR. 106 71 KOLONAKI, ATHENS - GR\nT.\n+30 210 3617507\nE.\nRECEPTION@DON-BARBER.GR\nFACEBOOK\nYOUTUBE\nINSTAGRAM\nNEWSLETTER\nKOMMIGRAPHICS FOR\nDON BARBER & GROOM © 2019-2026\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD\nWELCOME TO DON'S WORLD"
+}
