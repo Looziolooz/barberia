@@ -27,9 +27,9 @@ export function Header() {
             <a href={SITE.phoneHref} className="hidden font-display text-[11px] uppercase tracking-[0.22em] transition-opacity hover:opacity-60 md:inline">
               {SITE.phone}
             </a>
-            <a href="#" className="hidden border border-cream/50 px-4 py-2 font-display text-[11px] uppercase tracking-[0.22em] transition-colors hover:bg-cream hover:text-background sm:inline-block">
+            <Link href="/book" className="hidden border border-cream/50 px-4 py-2 font-display text-[11px] uppercase tracking-[0.22em] transition-colors hover:bg-cream hover:text-background sm:inline-block">
               {SITE.book}
-            </a>
+            </Link>
             <button onClick={() => setOpen(true)} aria-label="Open menu" className="flex h-6 w-7 flex-col justify-center gap-[6px]">
               <span className="block h-[2px] w-full bg-cream" />
               <span className="block h-[2px] w-full bg-cream" />

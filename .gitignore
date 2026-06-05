@@ -50,3 +50,6 @@ temp/
 
 # dev logs
 *.log
+
+# Runtime booking data
+/data/bookings.json
