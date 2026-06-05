@@ -1,0 +1,86 @@
+[
+  {
+    "name": "acqua.webp",
+    "src": "/images/gallery/acqua.webp",
+    "w": 303,
+    "h": 437
+  },
+  {
+    "name": "client-detail.webp",
+    "src": "/images/gallery/client-detail.webp",
+    "w": 437,
+    "h": 570
+  },
+  {
+    "name": "feet.webp",
+    "src": "/images/gallery/feet.webp",
+    "w": 619,
+    "h": 422
+  },
+  {
+    "name": "client.webp",
+    "src": "/images/gallery/client.webp",
+    "w": 688,
+    "h": 465
+  },
+  {
+    "name": "portrait.webp",
+    "src": "/images/gallery/portrait.webp",
+    "w": 457,
+    "h": 557
+  },
+  {
+    "name": "orange.webp",
+    "src": "/images/gallery/orange.webp",
+    "w": 378,
+    "h": 557
+  },
+  {
+    "name": "owner.webp",
+    "src": "/images/gallery/owner.webp",
+    "w": 414,
+    "h": 663
+  },
+  {
+    "name": "products.webp",
+    "src": "/images/gallery/products.webp",
+    "w": 556,
+    "h": 330
+  },
+  {
+    "name": "hair-cut.webp",
+    "src": "/images/gallery/hair-cut.webp",
+    "w": 1166,
+    "h": 900
+  },
+  {
+    "name": "chair-mirror.webp",
+    "src": "/images/gallery/chair-mirror.webp",
+    "w": 675,
+    "h": 900
+  },
+  {
+    "name": "reception.webp",
+    "src": "/images/gallery/reception.webp",
+    "w": 1200,
+    "h": 746
+  },
+  {
+    "name": "beard.webp",
+    "src": "/images/gallery/beard.webp",
+    "w": 1439,
+    "h": 900
+  },
+  {
+    "name": "leather-chair.webp",
+    "src": "/images/gallery/leather-chair.webp",
+    "w": 691,
+    "h": 900
+  },
+  {
+    "name": "wood-store.webp",
+    "src": "/images/gallery/wood-store.webp",
+    "w": 512,
+    "h": 900
+  }
+]

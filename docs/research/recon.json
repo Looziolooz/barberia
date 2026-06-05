@@ -1,0 +1,360 @@
+{
+  "title": "Περιηγηθείτε στο Κατάστημά μας | Don Barber & Groom",
+  "description": "Γνωρίστε το κατάστημά μας στο κέντρο της Αθήνας και περιηγηθείτε σε αυτό. Μπείτε στο site του Don Barber και μάθετε περισσότερα!",
+  "generator": "WPML ver:4.5.14 stt:1,13;",
+  "lang": "en-US",
+  "scriptHosts": [
+    "consent.cookiebot.com",
+    "consentcdn.cookiebot.com",
+    "www.googletagmanager.com",
+    "don-barber.gr"
+  ],
+  "bodyBg": "rgb(0, 0, 0)",
+  "bodyColor": "rgb(0, 0, 0)",
+  "fonts": [
+    "sans-serif",
+    "PFGrandGothikWide, Arial, Helvetica, sans-serif",
+    "PFGrandGothikWideBold, Arial, Helvetica, sans-serif"
+  ],
+  "headings": [
+    {
+      "tag": "H3",
+      "text": "SERVICES",
+      "font": "PFGrandGothikWideBold, Arial, Helvetica, sans-serif",
+      "size": "26px",
+      "weight": "400",
+      "color": "rgb(0, 0, 0)",
+      "transform": "none"
+    },
+    {
+      "tag": "H1",
+      "text": "LOOK AROUND THE BARBERSHOP",
+      "font": "PFGrandGothikWideBold, Arial, Helvetica, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "color": "rgb(236, 234, 224)",
+      "transform": "none"
+    },
+    {
+      "tag": "H2",
+      "text": "STORE",
+      "font": "PFGrandGothikWide, Arial, Helvetica, sans-serif",
+      "size": "200px",
+      "weight": "400",
+      "color": "rgb(236, 234, 224)",
+      "transform": "none"
+    }
+  ],
+  "navLinks": [
+    " -> /en/",
+    "BOOK NOW -> https://don-barber.gr/en/epikoinwnia/",
+    "+30 210 3617507 -> tel:+302103617507",
+    "EN -> https://don-barber.gr/en/perihghtheite-sto-katasthma-mas/",
+    "GR -> https://don-barber.gr/perihghtheite-sto-katasthma-mas/",
+    "HOME -> https://don-barber.gr/en/",
+    "PROFILE -> https://don-barber.gr/en/sxetika-me-emas/",
+    "TIMELINE -> https://don-barber.gr/en/to-taksidi-mas-ksekina-to-2012/",
+    "GALLERY -> https://don-barber.gr/en/perihghtheite-sto-katasthma-mas/",
+    "THE TEAM -> https://don-barber.gr/en/gnwriste-thn-omada-mas/",
+    "SERVICES -> https://don-barber.gr/en/anakalypste-tis-yphresies-mas/",
+    "NEWS -> https://don-barber.gr/en/nea-ekdhlwseis-kai-symboules-modas-andrikhs-peripoihshs/",
+    "CONTACT -> https://don-barber.gr/en/epikoinwnia/",
+    "SERVICESPREMIUM BARBERING SERV -> https://don-barber.gr/en/anakalypste-tis-yphresies-mas/"
+  ],
+  "buttons": [
+    "Necessary  1",
+    "Preferences  5",
+    "Statistics  4",
+    "Marketing  4",
+    "Unclassified  0",
+    "[#IABV2_LABEL_PURPOSES#]",
+    "[#IABV2_LABEL_FEATURES#]",
+    "[#IABV2_LABEL_PARTNERS#]",
+    "Allow all cookies",
+    "Customize",
+    "Allow selection",
+    "Use necessary cookies only"
+  ],
+  "images": [
+    {
+      "src": "data:,",
+      "alt": "logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC6SURBVHgBpdTdCcMgEAdwT/vk04EOkBG6QifpHH3rCF2hk3SVvBaEuoDYu4IgRRMv/iEkD/Hn+QnOuatS6gEAqDoJIQC/vfe594+m576FjAZKL6XXkSDiYox5UQFLXZEoNZJzXg9B/0hK6SKGWkiMcRVBewjnNIuURdIzyFBFo0jZPnoGqaMbCEqRJkSNIiFPCfILj7F1GLkySfvuqnFlShDxWesF6D76zF4jPJ/GWvum7/NRjBCegtsXQuuTY/odOJIAAAAASUVORK5CYII=",
+      "alt": "opens in a new window",
+      "w": 18,
+      "h": 18
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC6SURBVHgBpdTdCcMgEAdwT/vk04EOkBG6QifpHH3rCF2hk3SVvBaEuoDYu4IgRRMv/iEkD/Hn+QnOuatS6gEAqDoJIQC/vfe594+m576FjAZKL6XXkSDiYox5UQFLXZEoNZJzXg9B/0hK6SKGWkiMcRVBewjnNIuURdIzyFBFo0jZPnoGqaMbCEqRJkSNIiFPCfILj7F1GLkySfvuqnFlShDxWesF6D76zF4jPJ/GWvum7/NRjBCegtsXQuuTY/odOJIAAAAASUVORK5CYII=",
+      "alt": "opens in a new window",
+      "w": 18,
+      "h": 18
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC6SURBVHgBpdTdCcMgEAdwT/vk04EOkBG6QifpHH3rCF2hk3SVvBaEuoDYu4IgRRMv/iEkD/Hn+QnOuatS6gEAqDoJIQC/vfe594+m576FjAZKL6XXkSDiYox5UQFLXZEoNZJzXg9B/0hK6SKGWkiMcRVBewjnNIuURdIzyFBFo0jZPnoGqaMbCEqRJkSNIiFPCfILj7F1GLkySfvuqnFlShDxWesF6D76zF4jPJ/GWvum7/NRjBCegtsXQuuTY/odOJIAAAAASUVORK5CYII=",
+      "alt": "opens in a new window",
+      "w": 18,
+      "h": 18
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAC6SURBVHgBpdTdCcMgEAdwT/vk04EOkBG6QifpHH3rCF2hk3SVvBaEuoDYu4IgRRMv/iEkD/Hn+QnOuatS6gEAqDoJIQC/vfe594+m576FjAZKL6XXkSDiYox5UQFLXZEoNZJzXg9B/0hK6SKGWkiMcRVBewjnNIuURdIzyFBFo0jZPnoGqaMbCEqRJkSNIiFPCfILj7F1GLkySfvuqnFlShDxWesF6D76zF4jPJ/GWvum7/NRjBCegtsXQuuTY/odOJIAAAAASUVORK5CYII=",
+      "alt": "opens in a new window",
+      "w": 18,
+      "h": 18
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-mega-menu-services-banner.jpg",
+      "alt": "SERVICES",
+      "w": 181,
+      "h": 88
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-acqua.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 303,
+      "h": 437
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-client-detail.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 437,
+      "h": 570
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-feet.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 619,
+      "h": 422
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-acqua.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 121,
+      "h": 174
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-client-detail.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 174,
+      "h": 228
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-client.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 688,
+      "h": 465
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-portrait.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 457,
+      "h": 557
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-orange.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 378,
+      "h": 557
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-client.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 275,
+      "h": 186
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-portrait.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 182,
+      "h": 222
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-feet.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 247,
+      "h": 168
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-don.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 414,
+      "h": 663
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-products.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 556,
+      "h": 330
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-feet.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 247,
+      "h": 168
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-gallery-don.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 414,
+      "h": 663
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-hair-cut-768x593.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 768,
+      "h": 593
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-store-interior-chair-mirror-576x768.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 576,
+      "h": 768
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/test-768x542.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 768,
+      "h": 542
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-barbering-wood-store-e1603731774808.png",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 341,
+      "h": 600
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-store-interior-reception-768x477.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 768,
+      "h": 477
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-barber-beard-768x480.jpg",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 768,
+      "h": 480
+    },
+    {
+      "src": "https://don-barber.gr/wp-content/uploads/don-barber-and-groom-barbering-leather-chair-590x768.png",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 590,
+      "h": 768
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    },
+    {
+      "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Don Barber & Groom - Gallery",
+      "w": 1,
+      "h": 1
+    }
+  ],
+  "videos": [],
+  "bgImages": [
+    "url(\"https://don-barber.gr/wp-content/uploads/don-barber-and-groom-store-interior-reception.jpg\")"
+  ],
+  "sections": [
+    {
+      "tag": "div",
+      "cls": "fill-dimensions cover-img fixed hidden mobile-hor-visible",
+      "h": 0,
+      "bg": "rgba(0, 0, 0, 0)",
+      "text": ""
+    },
+    {
+      "tag": "section",
+      "cls": "v-gallery fixed mobile-hor-rel",
+      "h": 900,
+      "bg": "rgba(0, 0, 0, 0)",
+      "text": "LOOK AROUND THE BARBERSHOP                            \n                        \n          "
+    },
+    {
+      "tag": "svg",
+      "cls": "[object SVGAnimatedString]",
+      "h": 100,
+      "bg": "rgba(0, 0, 0, 0)",
+      "text": ""
+    },
+    {
+      "tag": "div",
+      "cls": "h-gallery",
+      "h": 900,
+      "bg": "rgb(0, 0, 0)",
+      "text": "<img srcset=\"https://don-barber.gr/wp-content/uploads/don-barber-and-groom-hair-cut-460x35"
+    }
+  ],
+  "scrollHeight": 900,
+  "smoothScroll": {
+    "lenis": false,
+    "locomotive": false
+  },
+  "bodyTextSample": "This website uses cookies\nWe use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.\nConsent Selection\nNecessary\nPreferences\nStatistics\nMarketing\nShow details\nAllow all cookies\nAllow selection\nUse necessary cookies only\nSkip to content\nBOOK NOW \n+30 210 3617507\n ENGR\nLOOK AROUND THE BARBERSHOP\nSTORE\nIDEALLY PLACED IN THE HEART OF ATHENS, OUR STORE WAS DESIGNED TO COMBINE LUXURY AND COOL; AN INDULGENT BREAK FROM THE HUSTLE AND BUSTLE IN THE EVERYDAY LIFE OF THE MODERN GENTLEMAN.\nLEARN MORE"
+}

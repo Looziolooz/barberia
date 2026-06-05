@@ -1,0 +1,75 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-cream: var(--cream);
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-saira), "Arial Narrow", Arial, sans-serif;
+  --font-heading: var(--font-display);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --radius-sm: 0px;
+  --radius-lg: 0px;
+}
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #eceae0;
+  --cream: #eceae0;
+  --primary: #eceae0;
+  --primary-foreground: #0a0a0a;
+  --muted-foreground: #8c887e;
+  --border: rgba(236, 234, 224, 0.16);
+  --radius: 0;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    @apply font-sans;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  ::selection {
+    background: #eceae0;
+    color: #0a0a0a;
+  }
+}
+
+.font-display {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+}
+
+/* scroll-reveal */
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+}
+.reveal.is-inview {
+  animation: fade-up 1s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+@keyframes fade-up {
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
