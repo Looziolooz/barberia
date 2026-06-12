@@ -54,3 +54,4 @@ temp/
 # Runtime data stores
 /data/bookings.json
 /data/products.json
+.env*
