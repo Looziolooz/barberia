@@ -10,6 +10,8 @@ export const en: Messages = {
       "Take a look around Barberia — our store, designed to combine luxury and cool.",
     bookTitle: "Barberia | Book your appointment",
     bookDescription: "Book your appointment at Barberia.",
+    shopTitle: "Barberia | Shop grooming products",
+    shopDescription: "Browse our curated selection of grooming products.",
   },
   nav: {
     home: "Home",
@@ -18,6 +20,7 @@ export const en: Messages = {
     services: "Services",
     news: "News",
     book: "Book",
+    shop: "Shop",
     contact: "Contact",
   },
   header: {
@@ -42,8 +45,12 @@ export const en: Messages = {
   },
   shop: {
     eyebrow: "A wide range of products",
-    lede: "A carefully selected range of branded grooming products — for men only.",
+    lede: "A carefully selected range of branded grooming products - for men only.",
     title: "Shop in shop",
+  },
+  shopPage: {
+    title: "Products",
+    tagline: "Browse our curated selection of grooming products.",
   },
   services: {
     eyebrow: "House treatments",

@@ -8,6 +8,8 @@ export interface Messages {
     galleryDescription: string;
     bookTitle: string;
     bookDescription: string;
+    shopTitle: string;
+    shopDescription: string;
   };
   nav: {
     home: string;
@@ -16,6 +18,7 @@ export interface Messages {
     services: string;
     news: string;
     book: string;
+    shop: string;
     contact: string;
   };
   header: {
@@ -41,6 +44,10 @@ export interface Messages {
     eyebrow: string;
     lede: string;
     title: string;
+  };
+  shopPage: {
+    title: string;
+    tagline: string;
   };
   services: {
     eyebrow: string;

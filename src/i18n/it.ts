@@ -10,6 +10,8 @@ export const it: Messages = {
       "Fai un giro nella Barberia — il nostro store, pensato per unire lusso e carattere.",
     bookTitle: "Barberia | Prenota il tuo appuntamento",
     bookDescription: "Prenota il tuo appuntamento da Barberia.",
+    shopTitle: "Barberia | Prodotti per la cura della persona",
+    shopDescription: "Scopri la nostra selezione di prodotti per la cura della persona.",
   },
   nav: {
     home: "Home",
@@ -18,6 +20,7 @@ export const it: Messages = {
     services: "Servizi",
     news: "News",
     book: "Prenota",
+    shop: "Negozio",
     contact: "Contatti",
   },
   header: {
@@ -42,8 +45,12 @@ export const it: Messages = {
   },
   shop: {
     eyebrow: "Un'ampia gamma di prodotti",
-    lede: "Una selezione accurata di prodotti grooming di marca — solo per uomo.",
+    lede: "Una gamma accuratamente selezionata di prodotti di marca per la cura della persona - solo per uomo.",
     title: "Shop in shop",
+  },
+  shopPage: {
+    title: "Prodotti",
+    tagline: "Scopri la nostra selezione di prodotti per la cura della persona.",
   },
   services: {
     eyebrow: "Trattamenti della casa",

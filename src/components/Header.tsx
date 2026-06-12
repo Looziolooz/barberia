@@ -20,6 +20,7 @@ export function Header({ dict, locale }: { dict: Messages; locale: Locale }) {
     { label: dict.nav.team, href: `/${locale}#team` },
     { label: dict.nav.services, href: `/${locale}#services` },
     { label: dict.nav.news, href: `/${locale}#news` },
+    { label: dict.nav.shop, href: `/${locale}/shop` },
     { label: dict.nav.book, href: `/${locale}/book` },
     { label: dict.nav.contact, href: `/${locale}#contact` },
   ];
