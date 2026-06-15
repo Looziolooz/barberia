@@ -13,6 +13,15 @@ export const SITE = {
 } as const;
 
 export const HERO_BG = "/images/home/hero.webp";
+
+// Scroll-driven hero animation: 36 frames (1280x720) scrubbed on scroll.
+export const HERO_FRAME_COUNT = 36;
+export const HERO_FRAMES: string[] = Array.from(
+  { length: HERO_FRAME_COUNT },
+  (_, i) =>
+    `/images/home/hero-frames/ezgif-frame-${String(i + 1).padStart(3, "0")}.jpg`,
+);
+
 export const TEAM_OWNER_IMG = "/images/home/owner.webp";
 
 export const SHOP_IMG = "/images/home/shop.webp";
