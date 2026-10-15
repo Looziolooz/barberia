@@ -1,5 +1,12 @@
 # Barberia
 
+<!-- looz-design-credit -->
+> Progettato e sviluppato da **[LOoz.design](https://looz.design/?utm_source=github&utm_medium=referral&utm_campaign=readme)**: siti web, gestionali e agenti AI per piccole attività.
+> *Designed and built by LOoz.design: websites, management tools and AI agents for small businesses.*
+>
+> **Demo online:** https://barberia-ashy-beta.vercel.app/en · **Scheda del progetto · Case study:** https://looz.design/work/barberia
+<!-- /looz-design-credit -->
+
 A modern, bilingual website for a premium barbershop — marketing site, booking flow, and a full admin panel — built with Next.js 16, React 19, TypeScript and Tailwind CSS v4.
 
 **🌐 Languages / Lingue / Språk:** [English](#english) · [Italiano](#italiano) · [Svenska](#svenska)
